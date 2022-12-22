@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+}
+.container{
+    width: 100%;
+    position: sticky;
+    top: 0;
+    
+}
+.nav{
+    background-color: rgb(32, 32, 90);
+    width: 100%;
+    height: 70px;
+    color: white;
+    display: flex;
+   
+    
+   
+   
+}
+.nav p{
+   
+    width: 350px;
+    padding: 20px;
+    text-transform: uppercase;
+    
+}
+.nav li{
+    list-style: none;
+    
+}
+.nav li a{
+
+   padding-top: 20px;
+   text-decoration: none;
+   display: flex;
+   justify-content: space-between;
+   color: white;
+   padding: 20px;
+   text-transform: capitalize;
+  
+}
+
+h1{
+    text-align: center;
+    margin-top: 5%;
+    text-transform:uppercase;
+    font-weight: 25px;
+}
+.abo{
+     display: flex;
+     width: 1000px;
+     margin-left: 20%;
+     margin-top: 5%;
+    
+}
+.text{
+    border: 2px solid black;
+    width: 700px;
+    height: 500px;
+
+}
+p{
+    padding-top: 50px;
+    margin-left: 20px;
+    text-transform: capitalize;
+    line-height: 32px;
+}
+.photo{
+    border: 2px solid black;
+    width: 700px;
+}
+ img{
+    width: 500px;
+   padding-top: 50px;
+   padding-left: 5px;
+   padding-right: 5px;
+
+}
+.pra{
+    margin-top: 3%;
+    margin-left: 7%;
+}
+h1{
+    text-transform: capitalize;
+    font-weight: 32px;
+}
+ .pra h4{
+    text-transform: capitalize;
+    margin-left: 46%;
+
+    
+ }
+ .pra h3{
+    margin-left: 40%;
+
+ }
+.four{
+    display: flex;
+    width: 500px;
+    margin-left: 20%;
+    margin-right: 20%;
+   
+}
+.person1{
+    border: 2px solid black;
+
+}
+.person1 h1{
+    text-align: center;
+}
+.person1 h3{
+    text-align: center;
+}
+.person1 p{
+     margin-block-start: 2px;
+}
+.person2{
+    border: 2px solid black;
+}
+.person2 h1{
+    text-align: center;
+}
+.person2 h3{
+    text-align: center;
+}
+.person2 p{
+     margin-block-start: 2px;
+}
+
+.two{
+    display: flex;
+    width: 500px;
+    margin-left: 20%;
+    margin-right: 20%
+}
+.person3{
+    border: 2px solid black;
+
+}
+.person3 h1{
+    text-align: center;
+}
+.person3 h3{
+    text-align: center;
+}
+.person3 p{
+     margin-block-start: 2px;
+}
+
+.person4{
+    border: 2px solid black;
+
+}
+.person4 h1{
+    text-align: center;
+}
+.person4 h3{
+    text-align: center;
+}
+.person4 p{
+     margin-block-start: 2px;
+}
